@@ -1,0 +1,109 @@
+[{
+  "_id": {
+    "$oid": "62b2372c72f46872d963d7d3"
+  },
+  "name": "Konrad",
+  "secondName": "Kalman",
+  "email": "test@test.pl",
+  "password": "$2b$10$Mj7DAPSYZ1aLXeG1bUWWsuFqnqfLa8t/l0kyAPztphd.zBcsYBl7G",
+  "role": "student",
+  "picture": "/uploads/1655846610513-Screenshot from 2022-03-09 09-05-01.png",
+  "tokens": [
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MmIyMzcyYzcyZjQ2ODcyZDk2M2Q3ZDMiLCJpYXQiOjE2NTU4NDgwMzZ9.77iHaiYlC3qmZzcUOK9k7eH7vnWXgdVewNnMQ4Xl5lk"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MmIyMzcyYzcyZjQ2ODcyZDk2M2Q3ZDMiLCJpYXQiOjE2NTU4Njk2Mjl9.m7qv5RFbT148XgGL-_xIBAxy76fzMSetJx35xQICIbI"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MmIyMzcyYzcyZjQ2ODcyZDk2M2Q3ZDMiLCJpYXQiOjE2NTU4NzIwMTR9.u_W0yMFWeblYYrU5fpKZqbVz_MEu5zY8iW30ZrJf_4I"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MmIyMzcyYzcyZjQ2ODcyZDk2M2Q3ZDMiLCJpYXQiOjE2NTU4Nzk0ODF9._0sl-wOTgIswxMvL0ShAGFMH98VEaQ2MA4DSzX-_AXM"
+    }
+  ],
+  "status": "online",
+  "newMessages": {},
+  "__v": 4
+},{
+  "_id": {
+    "$oid": "62b2842459a117bb2c182688"
+  },
+  "name": "admin",
+  "secondName": "admin",
+  "email": "admin@admin.pl",
+  "password": "$2b$10$cbi9wSfuMw/BhtSchVay/egWLtJkX22EmldnOHf5s8Mb2uKpwQOPq",
+  "role": "admin",
+  "picture": "/uploads/1655866398520-Screenshot from 2022-03-09 08-56-57.png",
+  "tokens": [
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MmIyODQyNDU5YTExN2JiMmMxODI2ODgiLCJpYXQiOjE2NTU4NjY0NTB9.Gqv8mGgZSeuRWVm0uVe2nGM9zsjraSewMDSVkChVQuk"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MmIyODQyNDU5YTExN2JiMmMxODI2ODgiLCJpYXQiOjE2NTU4Njc0MTR9.XGkG6qwU9lrxvknGoW7ifB6nlzcV-o_Zxcynld6SlsQ"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MmIyODQyNDU5YTExN2JiMmMxODI2ODgiLCJpYXQiOjE2NTU4NjkxMjR9.fu82Y0yd_UoikpAd5orky7q1a9dSaDjLy0RnWPJKhWM"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MmIyODQyNDU5YTExN2JiMmMxODI2ODgiLCJpYXQiOjE2NTU4Njk2Njh9.sjOOmpypBQASgtl5DGbvXD51Uc3UTOcrxno813E7zJc"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MmIyODQyNDU5YTExN2JiMmMxODI2ODgiLCJpYXQiOjE2NTU4NzAyMjJ9.N9SnL3NuTob0W8vZTgdA0QawlM1I0ZsnSIEYM4dBsAI"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MmIyODQyNDU5YTExN2JiMmMxODI2ODgiLCJpYXQiOjE2NTU4NzA0ODV9.exhxvsAMSevFfjhH5AFTLzBeNRowRcG4JPe9ZVUYPuk"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MmIyODQyNDU5YTExN2JiMmMxODI2ODgiLCJpYXQiOjE2NTU4NzA2NTB9.VG-v6bM51UFbA1TsHJtWmShRnDp8JGRMdrRguycGbWs"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MmIyODQyNDU5YTExN2JiMmMxODI2ODgiLCJpYXQiOjE2NTU4NzA4Njh9.Rg0Oi7l-C9zxCGvb6BNZ1u_FP4LmN9Ke71HOI1geiX8"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MmIyODQyNDU5YTExN2JiMmMxODI2ODgiLCJpYXQiOjE2NTU4NzkzMTh9.Zd9sKiGXrYm7u7SsoJChxiCH4vvC3Jq13vi4Ap2GBAE"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MmIyODQyNDU5YTExN2JiMmMxODI2ODgiLCJpYXQiOjE2NTU4Nzk5OTN9.lQvTeTfEr_fb6Eka-7pCLcA61Vg0dPV90ZM9ADHf3jE"
+    }
+  ],
+  "status": "online",
+  "newMessages": {},
+  "__v": 10
+},{
+  "_id": {
+    "$oid": "62b2b6dc64ea3da35fabc49c"
+  },
+  "name": "Asia",
+  "secondName": "Basia",
+  "email": "test1@test.pl",
+  "password": "$2b$10$IV/Hir89K3v17IfZ7eTLjezBGR1iD5An1aRf06J9O/7h5d5j6xYEK",
+  "role": "teacher",
+  "picture": "/uploads/1655879370769-Screenshot from 2022-03-09 08-56-21.png",
+  "tokens": [
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MmIyYjZkYzY0ZWEzZGEzNWZhYmM0OWMiLCJpYXQiOjE2NTU4Nzk0MzB9.A3wudb2T4nrxyYZ7Lq9uSsy47ug1cEggsGi3tyFOLvo"
+    }
+  ],
+  "status": "offline",
+  "newMessages": {},
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "62b2b6ee64ea3da35fabc49e"
+  },
+  "name": "Kasia",
+  "secondName": "Stasia",
+  "email": "test2@test.pl",
+  "password": "$2b$10$735eniCPNwxMcmNKU2a/u.SqgX449HVQxZlFggRoEUSAjvNgm7W3i",
+  "role": "parent",
+  "picture": "/uploads/1655879388022-Screenshot from 2022-03-09 08-56-21.png",
+  "tokens": [
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MmIyYjZlZTY0ZWEzZGEzNWZhYmM0OWUiLCJpYXQiOjE2NTU4Nzk0NTV9.ueovxqcf6kBwaMqkrp-HbjHwmKjlkU9bS03vt2VF_20"
+    }
+  ],
+  "status": "offline",
+  "newMessages": {},
+  "__v": 1
+}]
